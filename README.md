@@ -17,7 +17,8 @@ Mas, eu achei a ideia de atrair usuários com uma competição, ou ranqueamento,
 Seguí uma video aula báaasica do youtube e tive ajuda de um colega, que me ajudou com a conta da Heroku.
 Nessa api tem as infos das midias que eu precisaria no site, a ideia tambem era colocar todos os icones e foto de perfil tudoo na api msm pra barbarizar de vez.
 
-https://sulli-pf-repro.herokuapp.com/coisas![enter image description here](https://64.media.tumblr.com/8feb302b7ef58cb8cfa56e087a61196d/cde2b0f20982dfd6-49/s2048x3072/846bc29a83db43210982c1cecaa571465e5fcccf.pnj)
+https://sulli-pf-repro.herokuapp.com/coisas
+![enter image description here](https://64.media.tumblr.com/8feb302b7ef58cb8cfa56e087a61196d/cde2b0f20982dfd6-49/s2048x3072/846bc29a83db43210982c1cecaa571465e5fcccf.pnj)
 
 
 ## Mas na hora de consumir....
