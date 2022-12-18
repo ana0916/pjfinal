@@ -43,7 +43,7 @@ Fui à caça dos usuários!
 ##
 ## Juntei todas as informações num liquidificador: coloquei tudo na function ehagroununcavgba(), e o resultado foi esse:
 
-https://app.netlify.com/sites/mm-reprograma/overview
+https://mm-reprograma.netlify.app/
 
 ![enter image description here](https://64.media.tumblr.com/d12e0344ca6e91d77ff866aa4310687a/b5723146a6750fb4-01/s2048x3072/f3ebb574193b80be9295abec16b14d02f355585d.pnj)
 ![enter image description here](https://64.media.tumblr.com/1f785aa2b9a8d9776e5d607b750f1152/eaab89c266faaf93-8a/s2048x3072/05041b774eb0a0fef70433257dde7c478dbe21ed.pnj)
