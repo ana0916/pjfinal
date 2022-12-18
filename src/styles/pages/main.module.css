@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&family=Roboto:wght@300&display=swap');
+
+
+
+
+.oi {
+    background: black;
+padding-bottom: 30px;
+}
+
+
+
+.cardWrapper {
+    justify-content: left;
+    display: flex;
+    width: 100%;
+    color: rgb(189, 189, 189);
+}
+.cardContainer {
+    margin-top: 3%;
+    max-width: 500px;
+   margin-left: 5%;
+ background-color: white;
+   padding: 10px;
+}
+
+.mediaImg {
+    width: 400px;
+    padding: 20px;
+}
+
+
+
+.infoBox{
+    margin-top: 3%;
+    padding: 10px;
+    font-family: 'DM Sans', sans-serif;
+    position: relative;
+    background-color: white;
+   width: 70%;
+  
+}
+
+.cardTitle{
+    margin-top: 1%;
+    font-size: 50px;
+    font-family: 'Roboto', sans-serif;
+
+    text-transform: uppercase;
+}
+.cardText {
+    width: 50%;
+    margin-bottom: 1%;
+    color: rgb(189, 189, 189);
+}
+
+.cardRevieW {
+margin-bottom: 2%;
+
+}
+
+.mediaStar {
+    padding: 1px;
+   width: 15px;
+}
+.greyStar{
+    padding: 1px;
+    width: 15px;
+    filter: grayscale(1);
+}
+.star {
+    display: flex;
+    position: relative;
+}

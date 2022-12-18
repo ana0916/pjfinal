@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+80s+Fade&display=swap');
+
+.container {
+   display: flex;
+   justify-content: space-between;
+ background-color: black;
+}
+
+.title {
+   color: #ffffff;
+   font-size: 70px;
+   margin-left: 1%;
+   margin-top: 1%;
+   font-family: 'Rubik 80s Fade', cursive;
+}
+

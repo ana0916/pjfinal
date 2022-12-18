@@ -1,0 +1,46 @@
+@import url('https://fonts.googleapis.com/css2?family=Chivo+Mono:ital,wght@0,300;1,300&family=Rubik+80s+Fade&display=swap');
+
+
+.menuContainer {
+  display: flex;
+  gap: 5rem;
+  align-items: center;
+  justify-content: right;
+  width: 100%;
+  padding: .5%;
+  margin-top: -2px;
+  background-color: black;
+}
+
+.menuItem {
+  list-style: none;
+
+  border-radius: 20px;
+}
+
+.menuLink {
+  text-decoration: none;
+  color: #ffffff;
+  font-size: 1.5rem;
+  padding: 2px;
+  opacity: 0.8;
+  font-style: italic;
+  text-transform: uppercase;
+  transition: 0.8s;
+  font-family: 'Chivo Mono', monospace;
+  ;
+}
+
+.menuLink:hover {
+  color: rgb(0, 242, 255);
+  transition: 0.8s;
+  opacity: 1;
+}
+
+@media(max-width: 765px) {
+  .menuContainer {
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+  }
+}
